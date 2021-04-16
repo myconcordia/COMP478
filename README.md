@@ -1,4 +1,4 @@
-# COMP 478/6771: Image Processing Winter 2021
+# COMP 478/6771: Image Processing 
 
 Concordia University course "Image Processing"
 
