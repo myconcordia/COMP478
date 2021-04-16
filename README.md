@@ -1,1 +1,1 @@
-# COMP478
+# COMP478: Tutorials
