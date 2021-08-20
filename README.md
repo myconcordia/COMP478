@@ -1,4 +1,5 @@
 <img src="https://github.com/matiassingers/awesome-readme/blob/master/icon.png" align="right" />
+
 # COMP 478/6771: Image Processing 
 
 Concordia University course "Image Processing"
